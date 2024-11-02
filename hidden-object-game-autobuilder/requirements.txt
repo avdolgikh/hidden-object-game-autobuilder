@@ -1,0 +1,12 @@
+numpy
+joblib
+scipy
+keras==2.3.1
+tensorflow-gpu==1.15.0
+sklearn
+h5py
+azureml-defaults
+opencv-python
+scikit-image
+matplotlib
+
